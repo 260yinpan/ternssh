@@ -14,7 +14,7 @@
     {
       "binding": "DB",
       "database_name": "ternssh",
-      "database_id": "__D1_DATABASE_ID__",
+      "database_id": "e4fa3ddc-81da-4c92-9775-4c77f26cefbf",
       "migrations_dir": "server/migrations"
     }
   ],
